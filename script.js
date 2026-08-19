@@ -17,3 +17,18 @@ const botoes = document.querySelectorAll("button");
                     }
 
                 }
+
+                const btnTemaescuro = document.querySelector(".btn-tema-escuro;
+
+                   btnTemaEscuro.addEventListener('click, mudaaTema
+
+                    function mudaTema() {
+    const corpoPagina = document.body;
+
+    if (corpoPagina.classList.contains("tema-escuro")) {
+        corpoPagina.classList.remove("tema-escuro");
+    } else {
+        corpoPagina.classList.add("tema-escuro");
+    }
+}
+                    }`
